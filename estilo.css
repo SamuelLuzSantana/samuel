@@ -733,7 +733,7 @@ footer{
 	}
 
 	#home{
-		width: 768px;
+		width: 100%;
 	}
 
 	.vazia{
@@ -750,7 +750,7 @@ footer{
 	}
 	
 	.sobre{
-		width: 768px;
+		width: 100%;
 		height: 55.75em;
 	}
 
@@ -780,7 +780,7 @@ footer{
 	}
 
 	.projetos{
-		width: 768px;
+		width: 100%;
 		height: 137em;
 		
 	}
@@ -814,7 +814,7 @@ footer{
 	}
 
 	footer{
-		width: 768px;
+		width: 100%;
 	}
 
 }
