@@ -95,6 +95,7 @@ a{
 	background-position: center;
 	background-size: cover;
 	height: 32em;
+	width: 100%;
 	display: flex;
 	flex-direction: column;
 }
@@ -237,6 +238,10 @@ a{
 
 }
 /* final home */
+
+#sb{
+	width: 100%;
+}
 
 .sobre{
 	width: 100%;
@@ -406,6 +411,10 @@ a{
 	width: 20%;
 }
 
+#pj{
+	width: 100%;
+}
+
 .projetos{
 	height: 41.9em;
 	width: 100%;
@@ -446,6 +455,10 @@ a{
 .divisao img:hover{
 	transition: 0.3s;
     transform: scale(1.1);
+}
+
+#ctt{
+	width: 100%;
 }
 
 footer{
@@ -863,7 +876,7 @@ footer{
 	}
 
 	.links {
-		margin-right: 2em;
+		margin-right: 5em;
 	}
 
 /* estilização da main */
