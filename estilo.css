@@ -806,7 +806,285 @@ footer{
 
 }
 
-@media only screen and (max-width: 720px) and (min-width: 428px){
+@media only screen and (max-width: 720px) and (min-width: 719px){
+
+	
+
+
+	.links{
+		margin-right: 0em;
+	}
+
+	.checkbtn{
+		display: block;
+		margin-right: 0;
+	}
+
+	ul{
+		position: fixed;
+		width: 100%;
+		height: 100vh;
+		left: 50em;
+		background: rgb(41,34,41);
+		background: linear-gradient(180deg, rgba(41,34,41,1) 27%, rgba(0,0,0,1) 93%);
+		top: 5em;
+		
+		text-align: center;
+		transition: all .5s;
+
+		
+	}
+
+	ul {
+		flex-direction: column;
+		align-content: center;
+	}
+
+	li{
+		font-size: 1em;
+		margin-left: 1em;
+	}
+
+	.links li:hover{
+
+		padding-bottom: 0;
+		margin-bottom: 36px;
+	}
+	
+	.links ul li{
+		margin-right: 11.2em;
+		padding: 1.89em 2em;
+	}
+
+	#check,input:checked ~ul{
+		left: 14em;
+    	height: 25em;
+    	border-radius: 0 2em;
+	}
+
+	.links {
+		margin-right: 2em;
+	}
+
+/* estilização da main */
+
+	#home{
+		width: 100%;
+		height: 29em;
+	}
+
+	#sb{
+		width: 100%;
+	}
+
+	#pj{
+		width: 100%;
+	}
+
+	#ctt{
+		width: 100%;
+	}
+
+	.vazia{
+		display: none;
+	}
+
+	.div1{
+		padding-top: 1em;
+	}
+
+	.textos{
+		margin-left: 8em;
+	}
+
+	.estilo-texto{
+		margin-left: 0em;
+	}
+
+	.estilo-texto p{
+		font-size: 43px;
+	}
+
+	.estilo-texto span {
+		font-size: 43px;
+	}	
+
+	.web p {
+		font-size: 21px !important;
+	}
+
+	.botoes{
+		margin-top: 20px;
+		display: flex;
+		
+		justify-content: space-between;
+	}
+	
+	.botoes a{
+		color: white;
+		font-family: 'Alegreya Sans', sans-serif;
+		font-weight: 300;
+		border: 1px solid white;
+		padding: 15px 10px;
+		border-radius: 12px;
+		margin-right: 1em;
+	}
+
+	.cv{
+		width: 9em;
+	}
+
+	.cv a {
+		padding: 14px 14px;
+		display: flex;
+		align-items: center;
+	}
+
+	.mouse img{
+		padding-bottom: 5em;
+	}
+	/*final home  */
+
+
+	.triangulo{
+		display: none;
+	}
+
+	.estilo-texto p {
+		font-size: 31px;
+		width: 11.2em;
+
+	}	
+
+	.estilo-texto span {
+		font-size: 34px;
+		font-weight: 700;
+	}
+
+	.divisao{
+		width: 90%;
+	}
+	
+	.sobre{
+		width: 100%;
+		height: 55.75em;
+	}
+
+	.sobre-mim{
+		flex-flow: column;
+		height: 55.75em;
+		margin-top: 0em;
+	}
+
+	.texto-sobremim{
+		width: 100%;
+		height: 19em;
+	}
+
+	.texto-sobremim p{
+		margin-top: 1em;
+		margin-bottom: 2em;
+	}
+
+	.texto-mim{ 
+		width: 80%;
+		font-size: 12px;
+		height: 290px;
+	} 
+
+	
+	.texto-sobremim p{ font-size: 1.6em; }
+
+	.skills {
+		height: 27em;
+		width: 100%;
+	}
+
+	.guia-ski p {
+		font-size: 1.7em;
+		padding-top: 2em;
+	}
+
+	.progress{
+		width: 19em;
+	}
+
+	.progress2{
+		margin: 0;
+	}
+
+	.html1{
+		width: 17em;
+		height: 1.38em;
+	}
+
+	.barra1{
+		width: 17em;
+		height: 1.38em;
+	}
+	
+	.barra3{
+		width: 17em;
+		height: 1.38em;
+	}
+
+
+
+	.table{
+		width: 100%;
+	}
+
+	.projetos{
+		width: 100%;
+		height: 109em;
+		margin-top: -12em;
+	}
+
+	.divisao img {
+		height: 31em; 
+		width: 24em; 
+	}
+
+	.divisao {
+		width: 90%;
+		height: 99em;
+		margin-top: 2em;
+
+		/* background-color: #be3434ab; */
+		align-items: center;
+		flex-direction: column;
+
+	}
+
+	.foto{
+		display: none;
+	}
+
+	.foto1 {
+		width: 33em;
+	}
+
+	.centralizar{
+		width: 85%;
+	}
+
+	.zap{
+		width: 95%;
+	}
+
+	.direitos {
+		width: 100%;
+	}	
+
+	footer{
+		width: 100%;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 718px) and (min-width: 428px){
 
 	
 
