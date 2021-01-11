@@ -2,6 +2,7 @@
 	padding: 0px;
 	margin: 0px;
 	font-size: 20px;
+	box-sizing: border-box;
 }
 
 header {
@@ -656,7 +657,7 @@ footer{
 	}
 
 	#home{
-		width: 1024px;
+		width: 100%;
 	}
 
 	.vazia{
@@ -673,7 +674,7 @@ footer{
 	}
 	
 	.sobre{
-		width: 1024px;
+		width: 100%;
 	}
 
 	.texto-mim{ width: 400px;} 
@@ -685,7 +686,7 @@ footer{
 	}
 
 	.projetos{
-		width: 1024px;
+		width: 100%;
 		height: 35em;
 	}
 
@@ -700,7 +701,7 @@ footer{
 	}
 
 	footer{
-		width: 1024px;
+		width: 100%;
 	}
 
 	.tudo p {
@@ -776,7 +777,7 @@ footer{
 	}
 
 	.table{
-		width: 105%;
+		width: 105%; /*AAAAAAAAAAAAAAAAAAAAAAAAAAAA */
 	}
 
 	.projetos{
@@ -1421,7 +1422,7 @@ footer{
 /* estilização da main */
 
 	#home{
-		width: 425px;
+		width: 100%;
 		height: 29em;
 	}
 
@@ -1481,7 +1482,7 @@ footer{
 	}
 	
 	.sobre{
-		width: 425px;
+		width: 100%;
 		height: 55.75em;
 	}
 
@@ -1584,7 +1585,7 @@ footer{
 	}
 
 	footer{
-		width: 425px;
+		width: 100%;
 	}
 
 	.foto1 {
