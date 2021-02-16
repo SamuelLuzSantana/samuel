@@ -726,7 +726,7 @@ footer{
 
 }
 
-@media only screen and (max-width: 1023px) and (min-width: 725px){
+@media only screen and (max-width: 1023px) and (min-width: 721px){
 
 	
 	
@@ -821,9 +821,7 @@ footer{
 
 }
 
-
-
-@media only screen and (max-width: 724px) and (min-width: 719px){
+@media only screen and (max-width: 720px) and (min-width: 719px){
 
 	
 
@@ -1345,7 +1343,7 @@ footer{
 	}
 
 	.foto1 {
-		width: 100%;
+		width: 33em;
 	}
 
 	.centralizar{
@@ -1580,7 +1578,7 @@ footer{
 	}
 
 	.foto1 {
-		width: 100%;
+		width: 35em;
 	}
 
 	.centralizar{
