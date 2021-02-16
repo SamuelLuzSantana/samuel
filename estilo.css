@@ -726,7 +726,7 @@ footer{
 
 }
 
-@media only screen and (max-width: 1023px) and (min-width: 725px){
+@media only screen and (max-width: 1023px) and (min-width: 721px){
 
 	
 	
@@ -821,8 +821,7 @@ footer{
 
 }
 
-
-@media only screen and (max-width: 724px) and (min-width: 445px){
+@media only screen and (max-width: 720px) and (min-width: 719px){
 
 	
 
@@ -1100,7 +1099,8 @@ footer{
 }
 
 
-@media only screen and (max-width: 444px) and (min-width: 428px){
+
+@media only screen and (max-width: 718px) and (min-width: 428px){
 
 	
 
@@ -1342,7 +1342,7 @@ footer{
 	}
 
 	.foto1 {
-		width: 100%;
+		width: 33em;
 	}
 
 	.centralizar{
@@ -1577,7 +1577,7 @@ footer{
 	}
 
 	.foto1 {
-		width: 100%;
+		width: 35em;
 	}
 
 	.centralizar{
