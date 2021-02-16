@@ -117,6 +117,7 @@ a{
 }
 
 .textos{
+	margin-right: 6em;
 	/* background-color: blue; */
 	display: flex;
 	align-items: center;
@@ -125,7 +126,6 @@ a{
 }
 
 .estilo-texto{
-	margin-left: 2em;
 	/* background-color: #c2adc279; */
 	color: white;
 	font-family: 'Roboto', sans-serif;
@@ -508,15 +508,18 @@ footer{
 }
 
 .imgctt{
-	/* background-color: red; */
-	height: 35%;
 	width: 100%;
-	
+	background-color: #636363;	
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
-.imgctt img{
-	height: 100%;
-    width: 93%;
+.imgctt p{
+	color: #ffffff;
+	font-family: 'Alegreya Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 300;
 }
 
 .icones{
@@ -1190,7 +1193,7 @@ footer{
 	}
 
 	.mouse img{
-		padding-bottom: 5em;
+		padding-bottom: 1em;
 	}
 	/*final home  */
 
@@ -1201,6 +1204,7 @@ footer{
 
 	.textos{
 		margin: auto;
+		margin-right: 6em;
 	}
 
 	.estilo-texto p {
@@ -1336,12 +1340,12 @@ footer{
 	.icones {
 		height: 74%;
 		width: 93%;
-		margin-top: 3px;
+		margin-top: 11px;
 	}
 
 	.centralizar2 {
 		height: 100%;
-		width: 82%;
+		width: 100%;
     	margin: auto;
 	}
 
@@ -1376,28 +1380,29 @@ footer{
 
 	.tudo{
 		width: 54%;
+		height: 70px;
 	}
 
 	.tudo p {
 		font-weight: 400;
 		font-size: 15px;
-		margin-left: -3em;
+		padding-left: 27px;
 	}
 
 
 	.zap img{
 		height: 3em;
-		width: 3em;
 		padding-left: 9px;
 	}
 
 	.direitos p{
 		font-size: 13px;
+		padding-top: 2em;
 	}
 
 }
 
 /* responsivo safeeeee */
-
+/* agora foi fé */
 
 
