@@ -683,7 +683,7 @@ footer{
 	.texto-sobremim p{ font-size: 1.6em; }
 
 	.table{
-		width: 105%;
+		width: 100%;
 	}
 
 	.projetos{
@@ -778,7 +778,7 @@ footer{
 	}
 
 	.table{
-		width: 105%; /*AAAAAAAAAAAAAAAAAAAAAAAAAAAA */
+		width: 100%; /*AAAAAAAAAAAAAAAAAAAAAAAAAAAA */
 	}
 
 	.projetos{
@@ -1547,7 +1547,7 @@ footer{
 
 
 	.table{
-		width: 105%;
+		width: 100%;
 	}
 
 	.projetos{
