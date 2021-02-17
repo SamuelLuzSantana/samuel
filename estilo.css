@@ -110,6 +110,7 @@ a{
 
 .div1{
 	/* background-color: red; */
+	padding-left: 3em;
 	padding-top: 3em;
 	height: 25em;
 	width: 100%;
@@ -909,6 +910,7 @@ footer{
 	}
 
 	.div1{
+		padding-left: 0;
 		padding-top: 1em;
 	}
 
@@ -1103,7 +1105,7 @@ footer{
 
 
 
-@media only screen and (max-width: 718px) and (min-width: 425px){
+@media only screen and (max-width: 718px) and (min-width: 350px){
 	
 	.links{
 		margin-right: 0em;
@@ -1173,6 +1175,7 @@ footer{
 	}
 
 	.div1{
+		padding-left: 0;
 		padding-top: 1em;
 	}
 
@@ -1403,6 +1406,6 @@ footer{
 }
 
 /* responsivo safeeeee do safe*/
-
+/* div1 arrumada */
 
 
